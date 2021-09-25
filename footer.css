@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: #303841;;
+}
+.nav-link{
+    color: whitesmoke;
+}
+.nav-link > .fab{
+    
+}
+.nav-link:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+hr{
+    color: lightgrey;
+}
